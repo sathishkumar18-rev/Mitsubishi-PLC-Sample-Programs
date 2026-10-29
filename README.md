@@ -1,2 +1,3 @@
-# Mitsubishi---PLC---Communication-Protocols
-Mitsubishi PLCs Communication Programs
+# Mitsubishi---PLC---Sample Programs
+
+Mitsubishi PLCs Sample Programs
